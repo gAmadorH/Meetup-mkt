@@ -48,7 +48,7 @@
     "fastify-jwt": "^1.2.1",
     "fastify-plugin": "^1.6.0",
     "fastify-sensible": "^2.1.1",
-    "fastify-static": "^2.6.0",
+    "fastify-static": "^4.2.4",
     "inquirer": "^7.0.4",
     "joi": "^14.3.1",
     "pg": "^7.18.2",
