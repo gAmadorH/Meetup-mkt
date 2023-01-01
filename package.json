@@ -40,7 +40,7 @@
   "dependencies": {
     "bcrypt": "^4.0.0",
     "chance": "^1.1.4",
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "dotenv": "^8.2.0",
     "fastify": "^2.12.0",
     "fastify-chalk": "^0.1.2",
